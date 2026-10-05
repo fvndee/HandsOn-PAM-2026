@@ -4,7 +4,6 @@ build/
 .idea/
 out/
 *.iml
-
-# Solusi hands-on (jawaban) — tidak ikut di-commit, mahasiswa hanya dapat soal latihan
-solusi/
-*-solusi/
+local.properties
+gradlew.bat
+gradlew
